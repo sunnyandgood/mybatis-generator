@@ -11,7 +11,7 @@ MyBatis 逆向工具
 
 
 #### 使用说明
-1. 修改配置文件里的mysql连接信息，要逆向生成的表
+1. 修改配置文件里的mysql连接信息，需要通过表逆向生成javaBean
 2. 执行maven命令： mybatis-generator:generate
 3. 在src/test目录即会生成相应代码
 
